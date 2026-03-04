@@ -1,5 +1,5 @@
 # desktop_pet
-# Desktop pet, Evernight dance, solo cambien el path, just change path
+# Desktop pet, Evernight dance, solo cambien el path, just change path, Python.
 from PIL import Image, ImageTk
 import tkinter as tk
 
